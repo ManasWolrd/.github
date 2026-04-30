@@ -1,9 +1,10 @@
 # ManasWolrd
-we make free audio plugins.  
+we make free audio plugins(`may not musical because I am a programer not a producer`).  
 the `wolrd` of team name is a deliberately misspelled word.  
 
 > [!WARNING]
-> All the plugins are tested by `pluginval`&`auval`, but only windows version are tested in real DAW.  
+> All the plugins are tested by `pluginval`&`auval`, but only windows version are tested in real DAW(**Live/Renoise/Fl studio**).  
+> (Yes, I only have one x64 windows 10 PC).  
 > If any crash hit, please report it as an issue, a log file or dump file is better.
 
 > [!NOTE]
