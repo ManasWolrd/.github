@@ -2,6 +2,9 @@
 we make free audio plugins.  
 the `wolrd` of team name is a deliberately misspelled word.  
 
+## now we have a website
+check out https://manaswolrd.github.io/en/index.html
+
 ## avaliable released plugins
 [WarpCore](https://github.com/ManasWolrd/WarpCore): A multiband spectral inversion plugin similar to PiWarp/Wormhole, making wried robotic voice tone or negative harmony for your melody.  
 [VitalReverb](https://github.com/ManasWolrd/VitalReverb): A port of vital synthesizer's reverb with SSE/AVX/NEON dynamic dispatch to save your cpu.  
