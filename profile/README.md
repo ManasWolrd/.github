@@ -1,15 +1,14 @@
 # ManasWolrd
-we make free audio plugins(`may not musical because I am a programer not a producer`).  
+we make free audio plugins(`may not musical`).  
 the `wolrd` of team name is a deliberately misspelled word.  
 
 > [!WARNING]
 > All the plugins are tested by `pluginval`&`auval`, but only windows version are tested in real DAW(**Live/Renoise/Fl studio**).  
-> (Yes, I only have one x64 windows 10 PC).  
 > If any crash hit, please report it as an issue, a log file or dump file is better.
 
 > [!NOTE]
 > About AI  
-> Hybrid LLM and handwritten code. Sometimes I also ask questions related to LLM.
+> Hybrid LLM and handwritten code. Sometimes I also ask questions to LLM.
 
 ## now we have a website
 check out https://manaswolrd.github.io/en/index.html
